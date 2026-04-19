@@ -1,0 +1,8 @@
+INFO User login success
+INFO File uploaded
+ERROR Database connection failed
+INFO User logout
+WARNING High memory usage
+ERROR Disk write failure
+INFO User login success
+WARNING CPU spike detected
